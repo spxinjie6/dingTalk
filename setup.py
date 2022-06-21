@@ -1,11 +1,11 @@
 from setuptools import setup, find_packages
 
-with open("READ_ME.TXT", "r") as fh:
+with open("READ_ME.md", "r") as fh:
     long_description = fh.read()
 
 setup(
     name="ding-talk-wb",
-    version='0.0.2',
+    version='0.0.5',
     author='spxinjie6',
     author_email='1311855817@qq.com',
     url='https://github.com/spxinjie6/dingTalk.git',
