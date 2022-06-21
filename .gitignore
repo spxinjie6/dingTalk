@@ -3,6 +3,10 @@ aliyun/
 QimenCloud/
 *.zip
 top/
+build/*
+dist/*
+./dingtalk/
+src/ding_talk_wb*
 .idea
 __pycache__
 *.pyc

@@ -19,3 +19,7 @@ SDK在设计的时候，每次请求都让传入appkey和secret，但是一定�
 
 希望大家一起来完善它。TKS。
 
+
+python setup.py bdist_egg
+
+~/.pyenv/shims/twine upload dist/*
