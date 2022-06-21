@@ -1,0 +1,15 @@
+.venv
+aliyun/
+QimenCloud/
+*.zip
+top/
+.idea
+__pycache__
+*.pyc
+.idea/*
+*.wpu
+*.wpr
+*/*.py[cod]
+*.DS_Store
+*.out
+*.vscode
